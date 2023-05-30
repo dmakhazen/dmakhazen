@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmakhazen&layout=compact"/>
+<span style="display: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmakhazen&layout=compact"/></span>
+

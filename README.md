@@ -1,6 +1,6 @@
 ### Hi!
 
-I am passionate about working with data and conducting research. My experience includes analyzing tabular data, hypothesis testing, and creating ML models. I strive for professional growth and aim to contribute to the evolving ML community.
+I am passionate about working with data and conducting research. I have hands-on experience with Python, Pandas, Matplotlib, Scipy, Sklearn, and other tools. I strive for professional growth and aim to contribute to the evolving ML community.
 
 Here are a few highlights of my experience:
 🔍 Analyzing tabular data

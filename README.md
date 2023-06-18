@@ -11,6 +11,7 @@ At the moment I am working on my project to bring the cinema revenue prediction 
 
 I would be delighted to join an active team in the ML/DS field and I am available for remote work. If you have any exciting projects or collaboration opportunities, please feel free to reach out to me.
 
+[Portfolio RU](https://github.com/dmakhazen/portfolio)
 <!--
 **dmakhazen/dmakhazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +29,4 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmakhazen&layout=compact"/> --!>
 
-[Portfolio RU](https://github.com/dmakhazen/portfolio)
+

@@ -9,7 +9,7 @@ Here are a few highlights of my experience:
 
 At the moment I am working on my project to bring the cinema revenue prediction model to production.
 
-I would be delighted to join an active team in the ML/DS field and I am available for remote work. If you have any exciting projects or collaboration opportunities, please feel free to reach out to me.
+I would be delighted to join an active team in the ML/DS field and I am available for remote work. If you have any exciting projects or collaboration opportunities, please feel free to reach out to me. Currently I live in sunny Thailand, in Pattaya.
 
 [Portfolio RU](https://github.com/dmakhazen/portfolio/tree/main#readme)
 <!--

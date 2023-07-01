@@ -17,7 +17,30 @@ How to reach me:
 
  Fun fact: if you gaze long enough into an data, the data will gaze back into you.
 
- ![image](https://github.com/dmakhazen/dmakhazen/assets/107398428/33229e33-ad8b-4c96-9c65-15bd6b0672fc)
+Have worked in:
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikitlearn&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/> 
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=flat"/>  
+</p>
+
+Version control and Development tools used:
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>   
+<img src="https://img.shields.io/badge/Gitgub-181717?logo=github&logoColor=white&style=flat"/>   
+<img src="https://img.shields.io/badge/VScode-007ACC?logo=visualstudiocode&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat"/>
+</p>
+
+Operating system familiar with:
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>  
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat"/>  
+</p>
 
 
 <!--

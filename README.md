@@ -11,7 +11,7 @@ I would be delighted to join an active team in the ML/DS field and I am availabl
 Currently I live in sunny Thailand, in Pattaya.
 
 How to reach me:
-- e-mail - d.makhazen@gmail.com
+- d.makhazen@gmail.com
 - [Telegramm](https://t.me/pBR_322),
 - [LinkedIn](https://www.linkedin.com/in/dmakhazen/)
 

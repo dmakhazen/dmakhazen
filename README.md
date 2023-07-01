@@ -2,7 +2,7 @@
 
 I am passionate about working with data and conducting research. I devoted 9 years to work in the bioengineering laboratory, successfully completed my research and received a Ph.D. As a result of my scientific activity, I have written several [articles in peer-reviewed journals](https://bit.ly/42LaDLh).
 
-I have hands-on experience with Python, Pandas, Matplotlib, Scipy, Sklearn, and other tools related to ML/DS. You could find my portofolio [here](https://github.com/dmakhazen/portfolio/tree/main#readme) (only available in russian). I strive for professional growth and aim to contribute to the evolving ML community. 
+I have hands-on experience with Python, Pandas, Matplotlib, Scipy, Sklearn, and other tools related to ML/DS. You could find [my DS portofolio here](https://github.com/dmakhazen/portfolio/tree/main#readme) (only available in russian). I strive for professional growth and aim to contribute to the evolving ML community. 
 
 At the moment I am working on my project to bring the cinema revenue prediction model to production.
 

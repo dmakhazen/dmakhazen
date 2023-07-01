@@ -12,7 +12,7 @@ Currently I live in sunny Thailand, in Pattaya.
 
 How to reach me:
 - d.makhazen@gmail.com
-- [Telegramm](https://t.me/pBR_322)
+- [Telegram](https://t.me/pBR_322)
 - [LinkedIn](https://www.linkedin.com/in/dmakhazen/)
 
  Fun fact: if you gaze long enough into an data, the data will gaze back into you.

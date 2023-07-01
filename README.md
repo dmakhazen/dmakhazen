@@ -15,7 +15,7 @@ How to reach me:
 - [Telegramm](https://t.me/pBR_322)
 - [LinkedIn](https://www.linkedin.com/in/dmakhazen/)
 
- Fun fact😄: if you gaze long enough into an data, the data will gaze back into you.
+ Fun fact: if you gaze long enough into an data, the data will gaze back into you.
 
 <!--
 - 🔭 I’m currently working on ...

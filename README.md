@@ -17,6 +17,9 @@ How to reach me:
 
  Fun fact: if you gaze long enough into an data, the data will gaze back into you.
 
+ ![image](https://github.com/dmakhazen/dmakhazen/assets/107398428/33229e33-ad8b-4c96-9c65-15bd6b0672fc)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

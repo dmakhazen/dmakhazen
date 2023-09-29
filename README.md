@@ -4,9 +4,7 @@ I am passionate about working with data and conducting research. I devoted 9 yea
 
 I have hands-on experience with Python, Pandas, Matplotlib, Scipy, Sklearn, and other tools related to ML/DS. You could find [my DS portofolio here](https://github.com/dmakhazen/portfolio/tree/main#readme) (only available in russian). I strive for professional growth and aim to contribute to the evolving ML community. 
 
-At the moment I am working on my project to bring the cinema revenue prediction model to production.
-
-I would be delighted to join an active team in the ML/DS field and I am available for remote work. If you have any exciting projects or collaboration opportunities, please feel free to reach out to me. 
+If you have any exciting projects or collaboration opportunities, please feel free to reach out to me. 
 
 Currently I live in sunny Thailand, in Pattaya.
 

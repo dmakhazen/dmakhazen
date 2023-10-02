@@ -24,13 +24,12 @@ Have worked in:
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/> 
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=flat"/>  
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat">
 </p>
 
 Version control and Development tools used:
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>   
-<img src="https://img.shields.io/badge/Gitgub-181717?logo=github&logoColor=white&style=flat"/>   
+<img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat"/>   
 <img src="https://img.shields.io/badge/VScode-007ACC?logo=visualstudiocode&logoColor=white&style=flat"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat"/>
 </p>
